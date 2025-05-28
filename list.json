@@ -1,0 +1,34 @@
+{
+    "plugins": [
+        {
+            "id": "plugin-demo",
+            "name": "演示插件",
+            "description": "这是一个演示插件，展示插件系统的基本功能",
+            "version": "1.0.0",
+            "author": "Sleepy Team",
+            "homepage": "https://github.com/sleepy-team/plugin-demo",
+            "download_url": "https://github.com/sleepy-team/plugin-demo/releases/download/v1.0.0/plugin-demo.zip",
+            "tags": ["demo", "tutorial"]
+        },
+        {
+            "id": "markdown-editor",
+            "name": "Markdown 编辑器",
+            "description": "为 Sleepy 添加 Markdown 编辑和预览功能",
+            "version": "0.9.1",
+            "author": "John Doe",
+            "homepage": "https://github.com/johndoe/markdown-editor",
+            "download_url": "https://github.com/johndoe/markdown-editor/releases/download/v0.9.1/markdown-editor.zip",
+            "tags": ["editor", "markdown"]
+        },
+        {
+            "id": "theme-dark",
+            "name": "暗色主题",
+            "description": "为 Sleepy 添加一个舒适的暗色主题",
+            "version": "1.2.0",
+            "author": "Jane Smith",
+            "homepage": "https://github.com/janesmith/theme-dark",
+            "download_url": "https://github.com/janesmith/theme-dark/releases/download/v1.2.0/theme-dark.zip",
+            "tags": ["theme", "dark"]
+        }
+    ]
+}
